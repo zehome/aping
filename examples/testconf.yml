@@ -1,0 +1,19 @@
+---
+prober:
+  name: local
+output:
+  influxdb:
+    enable: true
+    url: https://myinfluxdb:8086
+    database: aping
+    username: aping
+    password: aping
+probes:
+  Free:
+    fping: free.fr
+    tags:
+      netname: internet
+  Google:
+    fping: [www.google.fr, 8.8.8.8]
+    tags:
+      netname: internet
