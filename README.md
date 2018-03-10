@@ -18,7 +18,7 @@ aping --help
 ![Metrics](/screenshots/Capture2.PNG?raw=true)
 
 ### Axes
-![Axes](/screenshots/Capture.png?raw=true)
+![Axes](/screenshots/Capture.PNG?raw=true)
 
 ### Display
 ![Display](/screenshots/Capture3.PNG?raw=true)
