@@ -15,9 +15,9 @@ aping --help
 ## Grafana dashboard
 
 ![Metrics](/screenshots/Capture2.png?raw=true)
-![Axes](/screenshots/Capture.png?raw=true)
-![Display](/screenshots/Capture3.png?raw=true)
-![Display override](/screenshots/Capture4.png?raw=true)
+![Axes](/screenshots/Capture.PNG?raw=true)
+![Display](/screenshots/Capture3.PNG?raw=true)
+![Display override](/screenshots/Capture4.PNG?raw=true)
 
 ## Status
 This project in currently in developement, not production ready.
